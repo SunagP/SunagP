@@ -2,21 +2,19 @@
 <h3 align="center">Passionate about coding and exploring new things .....😉🧐</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunagp&label=Profile%20views&color=0e75b6&style=flat" alt="sunagp" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunagp" alt="sunagp" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sunag3007" target="blank"><img src="https://img.shields.io/twitter/follow/sunag3007?logo=twitter&style=for-the-badge" alt="sunag3007" /></a> </p>
+ <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" data-canonical-src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" style="max-width:100%;">
+- 🌱 I’m currently learning **everything possible...😁**
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/2ReZuCx](https://bit.ly/2ReZuCx)
 
 - 📫 How to reach me **sunag.p3007@gmail.com**
 
 - ⚡ Fun fact **I think I'm crazy....😜**
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" data-canonical-src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" style="max-width:100%;">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunag3007" height="30" width="40" /></a>
+<a href="https://twitter.com/sunag3007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunag3007" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sunag p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunag p" height="30" width="40" /></a>
 <a href="https://fb.com/sunag3007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sunag3007" height="30" width="40" /></a>
 <a href="https://instagram.com/sunag3007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sunag3007" height="30" width="40" /></a>
