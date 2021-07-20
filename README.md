@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sunag.p3007@gmail.com**
 
-- ⚡ Fun fact is **I think I'm crazy....😜**
+
 
 
 <h3 align="left">Connect with me:</h3>
