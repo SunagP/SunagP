@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about coding and exploring new things .....😉🧐</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunagp&label=Profile%20views&color=0e75b6&style=flat" alt="sunagp" /> </p>
- <img align="right" alt="Coding" width="400" src="https://github.com/SunagP/SunagP/blob/main/200.gif" style="max-width:50%;height:10px">
+ <img align="right" alt="Coding" width="400" src="https://github.com/SunagP/SunagP/blob/main/200.gif" style="max-width:50%;height:100px">
 - 🌱 I’m currently learning **everything possible...😁**
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/2ReZuCx](https://bit.ly/2ReZuCx)
