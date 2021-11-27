@@ -5,7 +5,7 @@
  <img align="right" alt="Coding" width="400" src="https://github.com/SunagP/SunagP/blob/main/200.gif" style="max-width:50%;height:200px">
 - 🌱 I’m currently learning **everything possible...😁**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/2ReZuCx](https://bit.ly/2ReZuCx)
+- 👨‍💻 All of my projects are available at [https://bit.ly/3rULHzp](https://bit.ly/3rULHzp)
 
 - 📫 How to reach me **sunag.p3007@gmail.com**
 
